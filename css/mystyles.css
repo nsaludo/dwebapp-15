@@ -1,0 +1,29 @@
+header {
+  text-align: center;
+  background: #ffffff;
+  color: black;
+}
+header .container {
+  padding-top: 55px;
+  padding-bottom: 20px;
+}
+header img {
+  display: block;
+  margin: 0 auto 20px;
+}
+.profile_name {
+  padding-top: 100px;
+  display: block;
+  font-family: 'Tangerine', serif;
+  font-size: 8em;
+  text-shadow: 4px 4px 4px #aaa;
+}
+@media only screen and (max-width: 500px) {
+  .profile_name {
+  padding-top: 25px;
+    font-size: 4em;
+  }
+}
+.project_title {
+   font-family: 'Shadows Into Light Two', cursive;
+}
