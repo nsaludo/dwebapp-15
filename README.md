@@ -8,7 +8,7 @@
 ----
 ## Description
 
-This is an intial project for Dynamic Web Applications CSCI 15 class as a proof of concept in setting up and creating a simple website. This is a one HTML page that includes author's name, photo and placeholders links for future projects which includes live links and github URL.
+This is an initial project for Dynamic Web Applications CSCI 15 class as a proof of concept in setting up and creating a basic website. This is a one HTML page that includes author's name, photo and placeholders links for future projects which includes live links and github URL.
 
 ----
 ## Demo
