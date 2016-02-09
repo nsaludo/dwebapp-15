@@ -1,7 +1,7 @@
 header {
   text-align: center;
-  background: #ffffff;
-  color: black;
+  background: black;
+  color: white;
 }
 header .container {
   padding-top: 55px;
@@ -12,18 +12,33 @@ header img {
   margin: 0 auto 20px;
 }
 .profile_name {
-  padding-top: 100px;
+  padding-top: 80px;
   display: block;
   font-family: 'Tangerine', serif;
   font-size: 8em;
   text-shadow: 4px 4px 4px #aaa;
 }
-@media only screen and (max-width: 500px) {
-  .profile_name {
-  padding-top: 25px;
-    font-size: 4em;
-  }
-}
 .project_title {
    font-family: 'Shadows Into Light Two', cursive;
+}
+footer {
+  text-align: center;
+  background: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 20px solid #ffffff;
+}
+.aboutme {
+  padding-top: 55px;
+  display: block;
+  margin: 0 auto 20px;
+  padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 500px) {
+  .profile_name {
+    padding-top: 25px;
+    font-size: 4em;
+  }
 }
