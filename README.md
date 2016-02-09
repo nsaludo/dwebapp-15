@@ -13,7 +13,7 @@ This is an intial project for Dynamic Web Applications CSCI 15 class as a proof 
 ----
 ## Demo
 
-[http://screencast.com/t/b4onhwrkmoa](http://screencast.com/t/b4onhwrkmoa)
+[http://www.screencast.com/t/e9UkfZHG7gb] (http://www.screencast.com/t/e9UkfZHG7gb)
 
 ----
 ## Details for teaching team
